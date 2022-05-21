@@ -37,6 +37,7 @@ Beside my job, I do my best to contribute to the [Linuxmuster Project](https://w
       <td><b>⭐ Stars</b></td>
       <td><b>🌱 Forks</b></td>
       <td><b>⚡ Issues</b></td>
+      <td><b>📦 Releases</b></td>
     </tr>
   </thead>
   <tbody>
@@ -46,6 +47,7 @@ Beside my job, I do my best to contribute to the [Linuxmuster Project](https://w
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ajenti/ajenti?style=flat&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ajenti/ajenti?style=flat&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ajenti/ajenti?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Release" src="https://img.shields.io/github/v/release/ajenti/ajenti?style=flat&labelColor=343b41&display_name=release&include_prereleases&sort=date"/></td>
     </tr>
 	  <tr>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/1512630?s=30" style="display:block; margin:0 auto;" /></td>
@@ -53,6 +55,7 @@ Beside my job, I do my best to contribute to the [Linuxmuster Project](https://w
       <td><img alt="Stars" src="https://img.shields.io/github/stars/linuxmuster/linuxmuster-webui7?style=flat&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/linuxmuster/linuxmuster-webui7?style=flat&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/linuxmuster/linuxmuster-webui7?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Release" src="https://img.shields.io/github/v/release/linuxmuster/linuxmuster-webui7?style=flat&labelColor=343b41&display_name=release&include_prereleases&sort=date"/></td>
     </tr>
   </tbody>
 </table>
