@@ -5,7 +5,7 @@ actuallly living in <img src="https://cdn-icons-png.flaticon.com/512/323/323332.
 
 Beside my job, I do my best to contribute to the [Linuxmuster Project](https://www.linuxmuster.net/de/home/) school server solution. 
 </p>
-<h3>Currently actively using :</h3>
+<h3>Currently actively using</h3>
 <p align="center">
   <img alt="debian" src="https://img.shields.io/badge/-Debian-black?style=flat&logo=debian&logoColor=A3002E" />
   <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-black?style=flat&logo=shell&logoColor=white" />
