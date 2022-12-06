@@ -3,7 +3,7 @@
 <p>Welcome to my GitHub account! </br> I'm Arnaud, french teacher <img src="https://cdn-icons-png.flaticon.com/512/323/323315.png" width="13"/>, 
 actuallly living in <img src="https://cdn-icons-png.flaticon.com/512/323/323332.png" width="13"/> Germany. 
 
-Beside my job, I do my best to contribute to the [Linuxmuster Project](https://www.linuxmuster.net/de/home/) school server solution (<a rel="me" href="https://mastodon.linuxmuster.net/@arnaud">Mastodon</a>).
+Beside my job, I do my best to contribute to the [Linuxmuster Project](https://www.linuxmuster.net/de/home/) school server solution.
 </p>
 <h3>Currently actively using</h3>
 <p align="center">
